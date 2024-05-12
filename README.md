@@ -4,7 +4,7 @@ I wanted to know how much time I had been spending on my phone. More specificall
 my screentime could look like if I cut out specific apps. This data in specific only follows two weeks of data, but these weeks were very typical and so were picked
 to represent my average screentime.
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/_jQEUB3E06Q))
+[Software Demo Video]([[http://youtube.link.goes.here])
 
 # Data Analysis Results
 My first question was very basic: how much time am I spending on my phone everyday?
